@@ -1,6 +1,6 @@
 {
   "name": "npm-git-deps-testing",
-  "version": "3.0.0",
+  "version": "2.0.0",
   "description": "Testing git dependencies",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "UNLICENSED",
   "private": true,
   "scripts": {
-    "build": "echo 'Building'"
+    "prepare": "echo 'Preparing'"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
