@@ -13,7 +13,7 @@ This library has three tags:
 ## Running the tests
 
 - Set up a local `npm` package (e.g. using `npm init`)
-- Install the different versions using, e.g. `npm -v install paulbrimicombe/npm-git-deps-testing#semver:1.0.0`
+- Install the different versions using, e.g. `npm --verbose install paulbrimicombe/npm-git-deps-testing#semver:1.0.0`
 - If you're using `npm 6`, versions `1.0.0` and `3.0.0` will be fast to install but `2.0.0` will be slow
 - If you're using `npm 8`, version `1.0.0` will be fast but `2.0.0` and `3.0.0` will be slow
 
