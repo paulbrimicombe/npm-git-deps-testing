@@ -1,6 +1,6 @@
 {
   "name": "npm-git-deps-testing",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Testing git dependencies",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "author": "",
   "license": "UNLICENSED",
   "private": true,
+  "scripts": {
+    "prepare": "echo 'Preparing'"
+  },
   "dependencies": {
     "babel-cli": "^6.26.0",
     "eslint": "^8.9.0",
