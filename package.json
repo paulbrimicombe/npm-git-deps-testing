@@ -1,11 +1,10 @@
 {
   "name": "npm-git-deps-testing",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "description": "Testing git dependencies",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo 'Building'"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "UNLICENSED",
